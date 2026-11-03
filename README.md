@@ -29,7 +29,7 @@ We have implement a simple online application to demonstrate the algorithm. Plea
   title   = {Length-Preserving Vessel Trajectory Simplification With
              Controllable Compression-Precision Bound},
   author  = {Tu, Enmei and Xie, Zhiye and Xu, Xixia and Chen, Shuhang},
-  year    = {2025},
-  note    = {Preprint / manuscript}
+  year    = {2026},
+  journal    = {Ocean Engineering}
 }
 ```
