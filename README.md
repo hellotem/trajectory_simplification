@@ -25,11 +25,16 @@ We have implement a simple online application to demonstrate the algorithm. Plea
 ## Citation
 
 ```bibtex
-@article{tu2025length,
-  title   = {Length-Preserving Vessel Trajectory Simplification With
-             Controllable Compression-Precision Bound},
-  author  = {Tu, Enmei and Xie, Zhiye and Xu, Xixia and Chen, Shuhang},
-  year    = {2026},
-  journal    = {Ocean Engineering}
+@article{TU2026128938,
+title = {Length-preserving vessel trajectory simplification with controllable compression-Precision bound},
+journal = {Ocean Engineering},
+volume = {370},
+pages = {128938},
+year = {2026},
+issn = {0029-8018},
+doi = {https://doi.org/10.1016/j.oceaneng.2026.128938},
+url = {https://www.sciencedirect.com/science/article/pii/S0029801826047724},
+author = {Enmei Tu and Zhiye Xie and Xixia Xu and Shuhang Chen},
+keywords = {Vessel trajectory simplification, Length preservation, Dynamic programming, AIS data}
 }
 ```
