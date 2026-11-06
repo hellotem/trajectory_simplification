@@ -1,6 +1,6 @@
 # Length-Preserving Vessel Trajectory Simplification
 
-Official implementation of **"Length-Preserving Vessel Trajectory Simplification With Controllable Compression–Precision Bound"** (Tu, Xie, Xu, Chen, 2026).
+Official repository of **"Length-Preserving Vessel Trajectory Simplification With Controllable Compression–Precision Bound"** (Tu, Xie, Xu, Chen, 2026) [https://arxiv.org/abs/2610.38295](https://arxiv.org/abs/2610.38295).
 
 A dynamic-programming framework for AIS vessel trajectory simplification that explicitly optimizes **trajectory length** — a metric critical for fuel-consumption estimation, EEOI/CII carbon auditing, and voyage management — rather than only geometric shape.
 
@@ -19,7 +19,7 @@ Two dual problems are solved within one unified framework:
 
 ## Online Demo
 
-We have implement a simple online application to demonstrate the algorithm. Please visit [http://153.92.209.120](http://153.92.209.120) 
+We have implemented a simple online application to demonstrate the algorithm. Please visit [http://153.92.209.120](http://153.92.209.120) 
 
 
 ## Citation
